@@ -4,12 +4,14 @@ To use this repository,
 
 ```sh
 # Add the repo to homebrew's source list:
-brew tap vibraphone/homebrew
-# Fetch package information (from all homebrew sources):
-brew update
+brew tap vibraphone/elixir
+
 # Install a package you like:
 brew install cjson-bson
 ```
+
+OK, so there's only the one package for now.
+Have fun installing it, though.
 
 [Homebrew]: http://brew.sh/
 [Kitware]: http://kitware.com/
