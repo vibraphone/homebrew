@@ -1,0 +1,15 @@
+# [Homebrew][] formulas for [Kitware][] software
+
+To use this repository,
+
+```sh
+# Add the repo to homebrew's source list:
+brew tap vibraphone/homebrew
+# Fetch package information (from all homebrew sources):
+brew update
+# Install a package you like:
+brew install cjson-bson
+```
+
+[Homebrew]: http://brew.sh/
+[Kitware]: http://kitware.com/
